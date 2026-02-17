@@ -1,5 +1,13 @@
 # Cassilly Capital LLC - Corporate Structure
 
+> **📚 CANONICAL DOCUMENTATION:** This repository contains the single source of truth for Cassilly Capital Group corporate structure.
+> 
+> - **[COMPANY_STRUCTURE.md](./COMPANY_STRUCTURE.md)** - Complete 28-entity legal hierarchy with correct entity names
+> - **Entity Name Reference** - Always use full legal names (e.g., "Portlandia Electric Supply LLC", NOT "PES Supply")
+> - **Odoo Import Data** - See `res_company_hierarchy.csv` (coming soon)
+
+---
+
 **Ultimate Holding Company** | Wyoming LLC → Foreign Filed Kentucky
 
 ## Overview
