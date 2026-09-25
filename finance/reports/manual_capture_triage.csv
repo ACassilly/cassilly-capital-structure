@@ -1,0 +1,109 @@
+order_name,order_id,email,financial_status,fulfillment_status,created,days_old,amount,txn_kinds,captured,card_last4,auth_code,line_items,triage
+#133981,7655938162822,ianc@dichotomycapital.com,authorized,fulfilled,2026-07-01,,11091.77,authorization,False,2311,,Enphase IQ8 IQ8HC-72-M-DOM-US-NFC Microinverter 240V Split-Phase 384VA Max Power US Made Domestic Content×50,CAPTURE-NOW (fulfilled)
+#125581,7248266166406,troopon952@gmail.com,authorized,,2026-04-01,,10404.24,"authorization,capture",True,5071,,EG4 Electronics 18kPv + 1 x EG4 Electronics PowerPro 14.3kWh Capacity Energy Storage System×1,captured (lag)
+#131681,7628529696902,danielbarrettmd@gmail.com,authorized,fulfilled,2026-06-20,,7404.00,authorization,False,8723,,Briggs and Stratton 040806 PP26 PowerProtect Vanguard Engine LPV/NG 26kW Home Standby Generator×1,CAPTURE-NOW (fulfilled)
+#125781,7250768986246,bhumphrey@k2elec.com,authorized,,2026-04-02,,6435.52,authorization,False,7543,,Solectria 36.0KW 3-ph Inverter - PVI-36TL-480×1,confirm-then-capture
+#126481,7261850566790,,authorized,fulfilled,2026-04-08,,5579.61,"authorization,capture",True,0028,,SolarEdge 66.6KW Primary Synergy 277-480v - SE66.6K-USRP0BNU4×1,captured (lag)
+#122281,7180338102406,casey@cassilly.capital,authorized,,2026-02-26,,4941.40,"authorization,void",False,6536,,Mission Solar Mono PERC 430W 72 cell Black/Black Solar Panel - MSE430SX9Z×10,confirm-then-capture
+#106281,6678721265798,alexpereluka@gmail.com,pending,,2025-07-29,,4396.38,"authorization,authorization",False,••• ,pi_3RqNgJR6g2tsB6C32TPYgRP7,SMA Solar Sunny Boy 7.7KW 1-ph Inverter - SB7.7-1SP-US-41×1; SMA Solar Sunny Boy 7kW 208/240VAC String Inverter - SB 7.0-1SP-US-41×1,confirm-then-capture
+#123981,7223999299718,karl@ncsolarnow.com,authorized,,2026-03-20,,3567.62,"authorization,capture",True,9418,,Solaredge Communications Gateway - SE1000-CCG-G-S1×5,captured (lag)
+#115881,6964735148166,mlogue6466@hotmail.com,pending,,2025-11-29,,3338.32,none,False,,,Silfab All Black 132 Mono Cells 410w Solar Module - SIL-410 HC+×12,INVESTIGATE (no auth/pending)
+#115581,6944952189062,ceo@nationwidesun.com,pending,,2025-11-24,,3259.95,none,False,,,Quick Mount PV QMLC-A-12 18x18-inch Classic Shake Mount w/ Mill Finish×50,INVESTIGATE (no auth/pending)
+#132581,7637615444102,miles.broske@greentechrenewables.com,authorized,fulfilled,2026-06-23,,3089.45,authorization,False,4557,,SolarEdge Synergy 120.0kW 3-Ph Inverter - SE120K-US08IBNW4×1,CAPTURE-NOW (fulfilled)
+#123781,7218139168902,stetsonmar@aol.com,authorized,,2026-03-17,,2924.85,authorization,False,6541,,SMA Solar Sunny Boy Storage 6.0KW Hybrid Inverter - SBS6.0-US-10×1,confirm-then-capture
+#116081,6974941560966,,pending,,2025-12-01,,2839.20,none,False,,,Quick Mount Classic Shake Mount 18 x 18 Mill - QMLC-A-12×60,INVESTIGATE (no auth/pending)
+#116881,7036064563334,,pending,,2025-12-25,,2693.95,none,False,,,Bluetti B500 Battery Compatible with EP900 – P-B500-UN-WH-BL-010×1,INVESTIGATE (no auth/pending)
+#126281,7258377814150,gsuranyi@gmail.com,authorized,,2026-04-06,,2355.68,authorization,False,4423,,Talesun Solar 450W Solar Panel 108 Cells All-Black Bifacial TM7G54M-450 Wholesale 36 panels per pallet×10,confirm-then-capture
+#117181,7042457206918,jodi@hqllc.com,pending,,2025-12-27,,2269.60,none,False,,,Mission Solar 108 Half Cells Black/Black 410w Solar Panel - MSE410HT0B×10,INVESTIGATE (no auth/pending)
+#109281,6723818324102,atrout@mcatservices.com,pending,,2025-08-22,,2216.00,authorization,False,8914,pi_3Rz3iBR6g2tsB6C32BbCJtzi,Enphase 366w Microinverter - IQ8A-72-2-US×10,confirm-then-capture
+#135381,7682350612614,,authorized,fulfilled,2026-07-13,,2115.42,authorization,False,3052,,Fronius Rapid Shutdown Box-Duo×1; Fronius 6000 Watt Grid-Tie Inverter Without Data Manager - PRIMO 6.0-1-L×1,CAPTURE-NOW (fulfilled)
+57892,6435600760966,mhfrost@yahoo.com,pending,,2025-04-29,,2015.61,none,False,,,Mission Solar Mono PERC 430W 72 cell Black/Black Solar Panel - MSE430SX9Z×3; ENPHASE MC4 DC INPUTS Microinverter 366W 240VAC - IQ8A-72-M-US×3,INVESTIGATE (no auth/pending)
+#122581,7189935751302,,authorized,,2026-03-03,,2004.95,authorization,False,7542,,Schneider Conext XW-MPPT100-600 100A MPPT solar charge controller - RNW8651034×1,confirm-then-capture
+#121481,7164141994118,,pending,,2026-02-18,,2004.95,authorization,False,5002,ch_3T2JndR6g2tsB6C30ByhXuyT,Schneider Conext XW-MPPT100-600 100A MPPT solar charge controller - RNW8651034×1,confirm-then-capture
+#120081,7125230944390,cmmyster@gmail.com,pending,,2026-02-09,,2004.95,none,False,,,Schneider Conext XW-MPPT100-600 100A MPPT solar charge controller - RNW8651034×1,INVESTIGATE (no auth/pending)
+#118481,7100180791430,turnerexcavating@frontier.com,pending,,2026-01-27,,2004.95,none,False,,,Schneider Conext XW-MPPT100-600 100A MPPT solar charge controller - RNW8651034×1,INVESTIGATE (no auth/pending)
+#117681,7092928053382,michaelverville88@gmail.com,pending,,2026-01-23,,2004.95,none,False,,,Schneider Conext XW-MPPT100-600 100A MPPT solar charge controller - RNW8651034×1,INVESTIGATE (no auth/pending)
+#130881,7592194965638,april@arsolutions.us,authorized,fulfilled,2026-06-04,,1999.16,authorization,False,0757,,Solaredge Replacement 4g Cell Modem - CELL-B-R05-US-P-S5×1,CAPTURE-NOW (fulfilled)
+#134781,7669104607366,jeremypogue@gmail.com,authorized,fulfilled,2026-07-07,,1922.63,authorization,False,7969,,Thornova Solar 550W Solar Panel 144 Cells Bifacial TS-BG72(550)×10,CAPTURE-NOW (fulfilled)
+#125481,7245147275398,alex@ruachelectric.com,authorized,,2026-03-30,,1880.01,authorization,False,6643,,Fronius 7.5kw IG Advanced Plus Inverter NEW×1,confirm-then-capture
+#132381,7633492738182,acct@bushsolarenergysolutions.com,authorized,fulfilled,2026-06-22,,1861.15,authorization,False,8776,,SMA SB 5000US 208 / 240 / 277 VAC Grid-Tie Inverter×1,CAPTURE-NOW (fulfilled)
+#107881,6707279790214,bhumme@comcast.net,pending,,2025-08-14,,1825.00,authorization,False,2065,55S825857H338521R,Magnum 2.8KW Battery-based Inverter - MS2812-L×1,confirm-then-capture
+#109381,6723832610950,atrout@mcatservices.com,pending,,2025-08-22,,1762.20,authorization,False,8914,9XM19648LF184280F,Hyundai 410W Solar Panel 132 Half-Cell Bifacial HiS-S410YH(BK) Commercial 768 panels per Container (Truckload)×10,confirm-then-capture
+#114181,6854427508870,sgsrenewables@gmail.com,pending,,2025-10-30,,1689.31,"authorization,authorization",False,0487,,Schneider Conext XW-MPPT100-600 100A MPPT solar charge controller - RNW8651034×1; Tax 8.5%×1,confirm-then-capture
+#125181,7241292644486,,authorized,,2026-03-28,,1663.76,authorization,False,1861,,Schneider Conext XW-MPPT80-600 80A MPPT solar charge controller. - RNW8651032×1,confirm-then-capture
+#123581,7207503626374,alikhod83@gmail.com,authorized,,2026-03-12,,1614.74,"authorization,capture",True,9195,,"Fronius Primo 5.0-1 208-240vac Lite - 4,21,00,63,801×1",captured (lag)
+#114281,6856990949510,rexdy24@gmail.com,pending,,2025-10-30,,1560.10,authorization,False,••• ,8NH53878NX190135U,Schneider Conext XW-MPPT100-600 100A MPPT solar charge controller - RNW8651034×1,confirm-then-capture
+#122681,7192683315334,isaiahstrong96@yahoo.com,authorized,,2026-03-04,,1539.95,authorization,False,8280,,Schneider Conext 865-1032 80A 600VDC MPPT Charge Controller - XW-MPPT80-600×1,confirm-then-capture
+#121181,7163369390214,lee@nzrr.net,pending,,2026-02-18,,1539.95,none,False,,,Schneider Conext 865-1032 80A 600VDC MPPT Charge Controller - XW-MPPT80-600×1,INVESTIGATE (no auth/pending)
+#119781,7117927743622,hallcynthia168@gmail.com,pending,,2026-02-05,,1539.95,none,False,,,Schneider Conext 865-1032 80A 600VDC MPPT Charge Controller - XW-MPPT80-600×1,INVESTIGATE (no auth/pending)
+#131581,7621581471878,lsamichand@gmail.com,authorized,fulfilled,2026-06-17,,1492.65,"authorization,capture",True,6684,,Schneider Conext Solar Charge Controller - MPPT 60-150×1,captured (lag)
+#131081,7600195207302,steve@ciarleglio.com,authorized,fulfilled,2026-06-08,,1483.58,"authorization,authorization,authorization,authorization",False,1005,,Schneider Conext Solar Charge Controller - MPPT 60-150×1,CAPTURE-NOW (fulfilled)
+#124781,7232727122054,jleester@gmail.com,authorized,fulfilled,2026-03-24,,1418.02,"authorization,capture,capture",True,0357,,Tesla Powerwall Communications Gateway - Tesla Backup Gateway 2×1,captured (lag)
+#128781,7544373444742,alex@cassilly.capital,authorized,,2026-05-18,,1406.09,authorization,False,5748,,Pytes R Bracket 2pcs Pair set for E-Box-48100R - PYTES-EBOX-R-BRACKET×10,confirm-then-capture
+#114581,6888836333702,vladimir.ilic088@gmail.com,pending,,2025-11-14,,1346.97,authorization,False,5355,ch_3STSTjR6g2tsB6C31gMK88oc,IRONRIDGE XR RAIL 204 (17) CLEAR RAIL - XR-1000-204A×8; Tax 8.7%×1,confirm-then-capture
+63217,6435603185798,john@rrsolar.com,pending,,2025-04-29,,1333.16,none,False,,,Solis 3.0kW 1-Phase 2-MPPT String Inverter - 1P3K-4G-US-SPRT×1,INVESTIGATE (no auth/pending)
+#123181,7204912464006,metalgitar@yahoo.com,authorized,,2026-03-11,,1288.73,authorization,False,0798,,SolarEdge 650W Optimizer - S650B×8,confirm-then-capture
+#126181,7258007765126,sebihadz1974@gmail.com,authorized,,2026-04-06,,1212.79,authorization,False,,4FY990401X7780643,Pytes 1-6pcs E-box-48100R Indoor Cabinet Busbar - Forest 12K/15K×1,confirm-then-capture
+#117781,7094573301894,roberttaube@yahoo.com,pending,,2026-01-24,,1097.60,none,False,,,Schneider MPPT Disconnect Rapid Shutdown - RNW8651036×1,INVESTIGATE (no auth/pending)
+#122181,7177219702918,juniormix197846@gmail.com,authorized,,2026-02-25,,1018.88,"authorization,void",False,6013,,Pulsar Portable Power Stations - PPS500×1,confirm-then-capture
+#120981,7157128953990,steve.west@att.net,pending,,2026-02-15,,1014.23,none,False,,,BYD Battery-Box Premium HVL BCU and Base only×1,INVESTIGATE (no auth/pending)
+#122781,7193800507526,james_henry@napastore.com,authorized,,2026-03-05,,997.55,authorization,False,3295,,Solar4America 330Watt 60 Cells BoW Monocrystalline 35mm Black Frame Solar Panel - S4A-US330B×4,confirm-then-capture
+68806,6435605872774,williambrennaniii@gmail.com,pending,,2025-04-29,,889.96,none,False,,,EG4 Electronics 3kW 3000EHV-48 3kW Output 5000W PV Input 500 VOC Input Off-Grid Inverter×1,INVESTIGATE (no auth/pending)
+57903,6435600892038,graeme42999@gmail.com,pending,,2025-04-29,,862.32,none,False,,,ZNShine Solar 365Watt 120 1/2 Cells BoW Monocrystalline 35mm Black Frame Solar Panel - ZXM6-NH120-365-M×3,INVESTIGATE (no auth/pending)
+#106481,6680485363846,sean@obsidian.works,pending,,2025-07-30,,823.00,"authorization,authorization",False,1488,pi_3RqdU3R6g2tsB6C30EHO2hPY,Aptos 144 Bifacial Black/Black 550w Solar Panel - DNA-144-BF10-550W-DG×2,confirm-then-capture
+#120181,7125284126854,michelehansen131@gmail.com,pending,,2026-02-09,,819.41,none,False,,,Enphase IQ7A Microinverter - IQ7A-72-2-US×3,INVESTIGATE (no auth/pending)
+#123381,7206387843206,arbucklehomestead@gmail.com,authorized,,2026-03-11,,726.82,authorization,False,8125,,Outback Power EnergyCell 6 Volt 525Ah Deep Cycle Flooded Battery - 525FLA×1,confirm-then-capture
+#115281,6900836925574,mamamoose54@yahoo.com,pending,,2025-11-19,,684.89,none,False,,,Outback Power System Display and Controller - MATE3s×1,INVESTIGATE (no auth/pending)
+#109481,6725946998918,atrout@mcatservices.com,pending,,2025-08-23,,683.00,authorization,False,8914,8H316732FD339711S,Enphase IQ Combiner 5 Combiner Box – X‑IQ‑AM1‑240‑5‑HDK×1,confirm-then-capture
+68933,6435606003846,emtrj2001@gmail.com,pending,,2025-04-29,,679.02,none,False,,,EG4 Electronics Chargeverter - GC 48V 100A 5120W Output 240/120V Input Battery Charger×1,INVESTIGATE (no auth/pending)
+#1039,6557036773510,jonstepan@gmail.com,authorized,,2025-06-25,,658.88,authorization,False,,23180405NM7754537,Solarever USA HC 108M Series 410Watt 108 1/2 Cells BoB Monocrystalline Solar Panel - SE-182*91-410M-108N×2,confirm-then-capture
+#117881,7094581100678,robinfite@aim.com,pending,,2026-01-24,,644.19,none,False,,,Outback Power Control Board - SPARE-105×2,INVESTIGATE (no auth/pending)
+#111981,6772607254662,cheri@tritonsubs.com,pending,,2025-09-17,,640.75,authorization,False,4002,pi_3S8PY8R6g2tsB6C30nVIWSFA,Victron 12V/38Ah AGM Deep Cycle Battery - BAT412350084×4,confirm-then-capture
+#115181,6896834183302,account@chromakresearch.com,pending,,2025-11-17,,611.14,none,False,,,Solaredge Consumption Meter - SE-RGMTR-3Y-480V-A×1,INVESTIGATE (no auth/pending)
+68674,6435605774470,paul@myallsouth.com,pending,,2025-04-29,,583.00,none,False,,,EG4 Electronics Chargeverter - GC 48V 100A 5120W Output 240/120V Input Battery Charger×1,INVESTIGATE (no auth/pending)
+#123681,7216358948998,taylor.david.scott@gmail.com,authorized,,2026-03-16,,524.75,authorization,False,8696,,Silfab Solar SIL-370 HC×26,confirm-then-capture
+#141481,7744013729926,jody@solarplexus1.com,authorized,fulfilled,2026-08-12,,510.95,authorization,False,0835,,Solectria ENC-C510 Cellular SIM Chip Supports AT&T and T-Mobile Networks×1,CAPTURE-NOW (fulfilled)
+#135581,7687498662022,scottb77@gmail.com,authorized,fulfilled,2026-07-16,,491.06,authorization,False,9917,,Tesla Multi Powerwall Stacking Kit - 1112154-00-B×1,CAPTURE-NOW (fulfilled)
+#113481,6830044872838,orionsolar@solution4u.com,pending,,2025-10-16,,483.76,authorization,False,1085,ch_3SIwF1R6g2tsB6C32xq30b8i,ZNSHINE 405W BLACK ON BLACK 108 HALF-CELL MONO SOLAR PANEL - ZXM7-SH108-405/M×2,confirm-then-capture
+#113881,6850216493190,mike@platinumnh.com,pending,,2025-10-27,,470.40,authorization,False,1066,ch_3SMt6iR6g2tsB6C31nDKRVCv,Apsystems CHINT Revenue Grade Meter 3 phase 250 AMP for 208V - 2270106003×2,confirm-then-capture
+#113681,6837507915910,order@gordonmanor.net,pending,,2025-10-20,,408.66,"authorization,authorization",False,4445,ch_3SKMr1R6g2tsB6C308yoR5VZ,APsystems 415002 Rapid Shutdown PLC Device - RSD-S-PLC×11; Tax 8.35%×1,confirm-then-capture
+69560,6435606265990,trackstarpaint@yahoo.com,pending,,2025-04-29,,383.51,none,False,,,APSystems 4-Module Micro Inverter For 375W+ Modules - QS1×1,INVESTIGATE (no auth/pending)
+#1040,6557153919110,jkmsp@protonmail.com,authorized,,2025-06-25,,365.12,authorization,False,,48B35517XU3894453,Victron 12V/90Ah AGM Deep Cycle Battery - BAT412800084×2,confirm-then-capture
+#115781,6960888414342,,pending,,2025-11-28,,361.95,none,False,,,Quick Mount PV QMLC-A-12 18x18-inch Classic Shake Mount w/ Mill Finish×5,INVESTIGATE (no auth/pending)
+#124181,7226724188294,jacquelinelowther@me.com,authorized,fulfilled,2026-03-21,,358.57,"authorization,capture,capture,capture",True,4177,,Outback Power Control Board - SPARE-105×1,captured (lag)
+#122381,7181676150918,blakewellsokc@gmail.com,authorized,,2026-02-27,,354.39,"authorization,void",False,7212,,Solarever USA HC 108M Series 410Watt 108 1/2 Cells BoB Monocrystalline Solar Panel - SE-182*91-410M-108N×1,confirm-then-capture
+#120581,7151937585286,mbwraps@yahoo.com,pending,,2026-02-12,,334.57,none,False,,,Outback Power Control Board - SPARE-105×1,INVESTIGATE (no auth/pending)
+#1051,6626341814406,,pending,,2025-07-14,,319.95,"authorization,authorization",False,3100,pi_3RksClR6g2tsB6C32Yoc9w4k,APsystems Single Phase 4PV Module Microinverter 240V AC-60Hz 1200W 300W Per Channel - QS1 - NA×1,confirm-then-capture
+#106581,6681478922374,cclintrun67@gmail.com,pending,,2025-07-31,,314.02,"authorization,authorization",False,6808,pi_3Rqqj5R6g2tsB6C30rcxFPlc,REC Solar 410 Watt Alpha Pure R 30mm Black Frame Solar Panel - REC410AA×1,confirm-then-capture
+#123281,7206086574214,pjsausville@gmail.com,authorized,,2026-03-11,,280.83,authorization,False,8327,,EcoFasten Galvalume 8 x 12 In. Black Roof Flashing - GF1-GAL-BLK-812×50,confirm-then-capture
+61502,6435601678470,strcapitalgroup@gmail.com,authorized,,2025-04-29,,277.70,none,False,,,APsystems 3-Phase Commercial Quad Microinverter - QT2 - 208V×1,review
+#123081,7202254651526,,authorized,,2026-03-09,,267.31,authorization,False,4347,,EcoFasten Greenfasten Matte Black Flashing - GF1-GAL-BLK-0812×50,confirm-then-capture
+#143781,7759296987270,skyler@positivesolarllc.com,authorized,,2026-08-19,,263.94,authorization,False,7529,,GoodWe Wi-Fi Dongle - GA10081-90-00P×4,confirm-then-capture
+#1050,6621058138246,sacarter@ucsc.edu,pending,fulfilled,2025-07-11,,261.52,authorization,False,9857,pi_3Rjn8LR6g2tsB6C31xX7eIvK,ZNShine 370W Solar Panel 120 Cell - ZXM6-NH120-370/M×2,CAPTURE-NOW (fulfilled)
+#119581,7117026754694,ldhuber@gmail.com,pending,,2026-02-05,,244.94,none,False,,,Generac Mobile Link WI-FI & Ethernet Device×1,INVESTIGATE (no auth/pending)
+#119481,7116189958278,brycestark08@gmail.com,pending,,2026-02-04,,244.94,none,False,,,Generac Mobile Link WI-FI & Ethernet Device×1,INVESTIGATE (no auth/pending)
+62892,6435602989190,apidologist@duck.com,pending,,2025-04-29,,212.66,none,False,,,Hyundai Energy Solutions YH Series 132 Half Cell Black/Black Solar Panel - HiS-S400YH(BK)×1,INVESTIGATE (no auth/pending)
+#134981,7670242246790,gmckenna@hpa.edu,authorized,fulfilled,2026-07-07,,212.23,authorization,False,3607,,Sol-Ark PowerView Ethernet & Wi-Fi Dongle - SA-ETH-PWR×1,CAPTURE-NOW (fulfilled)
+#113781,6839481827462,millner@me.com,pending,,2025-10-21,,211.00,authorization,False,2007,ch_3SKlVmR6g2tsB6C31Etm3Cvo,Outback Power GS Radian Power Supply Board Replacement - SPARE-215×1,confirm-then-capture
+#125981,7253134508166,Mtthwarbis@gmail.com,authorized,,2026-04-03,,209.70,authorization,False,5768,,Canadian Solar EP Cube Components Wall Mount Lift Kit - 85000009×1,confirm-then-capture
+#118281,7098539540614,sal.ledesma1@gmail.com,pending,,2026-01-26,,199.25,none,False,,,Canadian Solar EP Cube Components Wall Mount Lift Kit - 85000009×1,INVESTIGATE (no auth/pending)
+#124081,7224423743622,jordan@roofraiders.com,authorized,,2026-03-20,,198.85,authorization,False,3970,,Sunergy 370W Black On Clear 120 Half-cell Mono Solar Panel - VSUN370-120BMH-500×1,confirm-then-capture
+#121681,7166466130054,benhuntee@icloud.com,pending,,2026-02-19,,198.25,authorization,False,2005,ch_3T2kEBR6g2tsB6C31GRBGNjb,Thornova Solar 440W Solar Panel 108 Cells All-Black Bifacial TS-BBT54(440) Wholesale 31 panels per pallet×1,confirm-then-capture
+#113081,6813868392582,tbookhamer@msn.com,pending,,2025-10-07,,188.15,authorization,False,7955,pi_3SFf0KR6g2tsB6C31COcnWzN,Midnite Solar Circuit Breaker - MNEPV30-300×4,confirm-then-capture
+#120381,7149865500806,jpageaz17@gmail.com,pending,,2026-02-11,,170.15,none,False,,,IronRidge PV Grounding Lug - PV-LUG-01-A1×20,INVESTIGATE (no auth/pending)
+#121381,7163726168198,trevork@watersprout.org,authorized,,2026-02-18,,163.75,none,False,,,Quick Mount PV QMLC-A-12 18x18-inch Classic Shake Mount w/ Mill Finish×2,review
+#114681,6893380108422,rob@spotlightsolar.com,pending,,2025-11-16,,154.95,none,False,,,IronRidge Frameless Module End Clamp Black - FMLS-EC-001-B×10,INVESTIGATE (no auth/pending)
+61953,6435602530438,87a9568@gmail.com,pending,,2025-04-29,,123.54,none,False,,,Outback Power FX/GS Replacement Inverter Fan Kit - FX/GS FAN KIT×4,INVESTIGATE (no auth/pending)
+#115681,6949007360134,john@johnhuggins.com,pending,,2025-11-26,,112.30,none,False,,,Schneider Rapid Shutdown Initiator Switch - RNW8651039×1,INVESTIGATE (no auth/pending)
+#115081,6896694984838,hudsonlasher@gmail.com,pending,,2025-11-17,,112.30,none,False,,,Schneider Rapid Shutdown Initiator Switch - RNW8651039×1,INVESTIGATE (no auth/pending)
+#122981,7198053695622,jh20london91@gmail.com,authorized,,2026-03-07,,108.95,authorization,False,9129,,GoodWe WiFi/LAN Dongle - GA10081-68-00P×1,confirm-then-capture
+#146381,7800247451782,3dmakerphil@gmail.com,pending,restocked,2026-09-06,,95.64,"authorization,authorization,authorization,authorization,authorization,authorization,authorization",False,1305,,BlueHorizon 415W Bifacial N-Type Module×2,confirm-then-capture
+#121081,7161984155782,mike@kinner.com,pending,,2026-02-17,,81.91,none,False,,,Quick Mount L-Foot Fixed Tilt 5 Degree Mill - QM-TLF5-M1×16,INVESTIGATE (no auth/pending)
+#123481,7207066435718,bob@ristowroofingllc.com,authorized,,2026-03-12,,79.13,authorization,False,0214,,Unirac BND T-BOLT&NUT 1/4X2.25DRKSS - 330051D×20,confirm-then-capture
+61504,6435601776774,alex@cassilly.capital,authorized,,2025-04-29,,67.84,none,False,,,Apsystems 14AWG Ac Bus Trunk Cable For YC1000 Micro Inverters - 2322402552×1,review
+#125681,7248447799430,alicembondurant@gmail.com,authorized,,2026-04-01,,58.46,authorization,False,6109,,Sirius PV ELNSM60M-450-HC-HV×5400,confirm-then-capture
+#129381,7564160598150,sourcing@portlandiaelectric.supply,authorized,,2026-05-26,,27.67,authorization,False,2439,,1-Gang Non-Metallic Box Metal/Wood Stud×1,confirm-then-capture
+#1043,6578175770758,TMETCALF@RANDALLMETALS.COM,authorized,,2025-07-01,,24.95,authorization,False,,6BP71753DL0470631,Savant 1 In Dual 20a Power Module Pigtail - GPM-H2R20120-21×2,confirm-then-capture
+#1041,6560958382214,bigjhnsn88@yahoo.com,authorized,,2025-06-27,,24.95,"authorization,authorization",False,,,Titan Wire & Cable STAUBLI MC4 Female Contact Socket - 18-32.0107P2000×15; Titan Wire & Cable STAUBLI MC4 Male Contact Pin - 18-32.0507P2000×15,confirm-then-capture
+57911,6435600990342,liam@cassilly.capital,pending,,2025-04-29,,2.12,none,False,,,Apsystems 14AWG Ac Bus Trunk Cable For YC1000 Micro Inverters - 2322402552×2,INVESTIGATE (no auth/pending)
+#128681,7542961668230,,authorized,,2026-05-17,,1.06,authorization,False,1111,,Authorize.net Test 1.00 USD×1,confirm-then-capture

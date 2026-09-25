@@ -1,0 +1,13 @@
+order,amount,customer_email,card_last4,fulfillment,action
+#133981,11091.77,ianc@dichotomycapital.com,2311,fulfilled,CAPTURE in Authorize.Net portal
+#131681,7404.00,danielbarrettmd@gmail.com,8723,fulfilled,CAPTURE in Authorize.Net portal
+#132581,3089.45,miles.broske@greentechrenewables.com,4557,fulfilled,CAPTURE in Authorize.Net portal
+#135381,2115.42,,3052,fulfilled,CAPTURE in Authorize.Net portal
+#130881,1999.16,april@arsolutions.us,0757,fulfilled,CAPTURE in Authorize.Net portal
+#134781,1922.63,jeremypogue@gmail.com,7969,fulfilled,CAPTURE in Authorize.Net portal
+#132381,1861.15,acct@bushsolarenergysolutions.com,8776,fulfilled,CAPTURE in Authorize.Net portal
+#131081,1483.58,steve@ciarleglio.com,1005,fulfilled,"RE-AUTH — 4 auth attempts, latest FAILED (do NOT capture)"
+#141481,510.95,jody@solarplexus1.com,0835,fulfilled,CAPTURE in Authorize.Net portal
+#135581,491.06,scottb77@gmail.com,9917,fulfilled,CAPTURE in Authorize.Net portal
+#1050,261.52,sacarter@ucsc.edu,9857,fulfilled,"STRIPE legacy — financial_status=pending (verify in Stripe, not Authorize.Net)"
+#134981,212.23,gmckenna@hpa.edu,3607,fulfilled,CAPTURE in Authorize.Net portal

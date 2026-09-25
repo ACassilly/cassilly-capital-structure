@@ -1,0 +1,16 @@
+invoice,customer,email,amount_usd,order_state,status
+INV/2025/00045,Aaron T.,atwombly@gmail.com,182952.0,cancel,"VOID — cancelled order (phantom invoice, do NOT collect)"
+INV/2026/00204,AECOM USA INC,jlee@us-aecom.com,78645.0,sale,OPEN — collectable
+INV/2026/00152,Pomptonian Food Service,Sales@pomptonians.com,42650.0,sale,OPEN — collectable
+INV/2026/00010,Blue Angel,quotes@blueangel.com,41261.05,sale,OPEN — collectable
+INV/2026/00084,Kelley K.,kelley.sparky@gmail.com,38801.35,sent,OPEN — collectable
+INV/2026/00272,CapitalPWL,bobby.s@capitalpwl.com,38295.02,sale,OPEN — collectable
+INV/2026/00224,Anup M.,amodak2014@gmail.com,32210.97,sale,OPEN — collectable
+INV/2025/00081,K2 Space,dennis@k2space.com,29386.1,sale,OPEN — collectable
+INV/2026/00078,Poipu Beach Athletic Club,eamonn@poipuclub.com,23842.48,sale,OPEN — collectable
+INV/2026/00072,Axiom360,sean.natalo@axiom360.com,23409.96,sale,OPEN — collectable
+INV/2026/00263,Evan S.,esains89@live.com,22976.36,draft,OPEN — collectable
+INV/2026/00094,Energetic Solutions,tanishq@energativ.com,17096.85,sale,OPEN — collectable
+INV/2026/00012,Jorge A.,jorge@solarsme.com,17057.46,sale,OPEN — collectable
+INV/2025/00170,Loomis Design Services,loomis.design.services@gmail.com,8582.8,sale,OPEN — collectable
+INV/2025/00096,"CalSolar Inc., Bryce Berggren",bryce.berggren@calsolarinc.com,7910.83,sale,OPEN — collectable
