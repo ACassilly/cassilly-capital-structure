@@ -1,0 +1,15 @@
+{
+  "fy2026": 1,
+  "deactivated_101300": true,
+  "deactivated_200000": true,
+  "partners_canonical_ar": 3852,
+  "partners_canonical_ap": 3852,
+  "opening_equity": [
+    {
+      "id": 48,
+      "state": "posted",
+      "amount_total": 182313.03
+    }
+  ],
+  "bank_net": 257313.03
+}
