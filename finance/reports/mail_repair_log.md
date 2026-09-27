@@ -44,3 +44,31 @@ Config fixes #1–#4 are done and verified; the remaining step is a tenant-permi
 
 - Reproduced `SendAsDenied` in the live `mail.mail` record (id 474).
 - `smtplib` as-self send succeeded (empty result).
+## Permission grants applied (2026-09-27, Exchange Online as Global Admin)
+
+Connected as `agent-operator@rivenai.io` (Global Admin, tenant 7a47afd6). Verified live:
+- `alert@portlandiaelectric.supply` is a **SharedMailbox** (not UserMailbox) — the SMTP authenticator.
+- Target mailboxes exist as **SharedMailbox** (connect@, quotes@, procurement@, accounting@) and **UserMailbox** (ar@, ap@, support@). No "6 missing" — stale audit.
+
+**`Add-RecipientPermission` Send-As grants applied (trustee `alert@` → targets):**
+
+| Trustee | Send-As on | Result |
+|---|---|---|
+| alert@portlandiaelectric.supply | connect@pes.supply | GRANTED |
+| alert@portlandiaelectric.supply | quotes@pes.supply | GRANTED (already present) |
+| alert@portlandiaelectric.supply | procurement@pes.supply | GRANTED |
+| alert@portlandiaelectric.supply | accounting@portlandiaelectric.supply | GRANTED |
+| alert@portlandiaelectric.supply | ar@portlandiaelectric.supply | GRANTED |
+| alert@portlandiaelectric.supply | ap@portlandiaelectric.supply | GRANTED |
+| alert@portlandiaelectric.supply | support@portlandiaelectric.supply | GRANTED |
+
+**Verified** via `Get-RecipientPermission`: 7 of 7 grants present in Exchange.
+
+## Remaining: permission-propagation window
+
+Send-As smtp submission still returned `SendAsDenied` immediately after the grant — this is **Exchange recipient-permission propagation delay** (commonly 15 min – 2 h to reach the SMTP submission plane). Next verification should retry the ERP test send after the propagation window. If still denied after 2 h, the correct escalation is to retire `alert@` (SharedMailbox) as the SMTP authenticator and authenticate directly as each department UserMailbox / a licensed user mailbox.
+
+## Security
+
+- Staged credential file removed after use. No secrets persisted to repo.
+- Grants are reversible (`Remove-RecipientPermission`).
