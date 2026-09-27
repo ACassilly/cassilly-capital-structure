@@ -1,0 +1,40 @@
+{
+  "targets": [
+    {
+      "platform": "google_business",
+      "name": "Portlandia Electric Supply — Google Business Profile",
+      "url": "PLACEHOLDER_GBP_SHARE_OR_SEARCH_URL",
+      "source": "google"
+    },
+    {
+      "platform": "trustpilot",
+      "name": "Portlandia Electric Supply — Trustpilot",
+      "url": "PLACEHOLDER_TRUSTPILOT_URL",
+      "source": "universal"
+    },
+    {
+      "platform": "yelp",
+      "name": "Portlandia Electric Supply — Yelp",
+      "url": "PLACEHOLDER_YELP_URL",
+      "source": "universal"
+    },
+    {
+      "platform": "bbb",
+      "name": "Portlandia Electric Supply — BBB",
+      "url": "PLACEHOLDER_BBB_URL",
+      "source": "universal"
+    },
+    {
+      "platform": "judgeme",
+      "name": "PES Supply storefront — Judge.me reviews",
+      "url": "PLACEHOLDER_JUDGEME_PUBLIC_URL",
+      "source": "universal"
+    },
+    {
+      "platform": "trustshop",
+      "name": "PES Supply storefront — TrustShop reviews",
+      "url": "PLACEHOLDER_TRUSTSHOP_PUBLIC_URL",
+      "source": "universal"
+    }
+  ]
+}
