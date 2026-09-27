@@ -427,5 +427,93 @@
   "parent": "",
   "certs": "",
   "categories": "Crystalline, Storage, Inverter"
+ },
+ {
+  "shopify_vendor": "Trina Solar",
+  "enf_slug": "trina-solar",
+  "enf_name": "Trina Solar Co., Ltd.",
+  "country": "China",
+  "website": "https://www.trinasolar.com",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Panel, Component"
+ },
+ {
+  "shopify_vendor": "AIKO",
+  "enf_slug": "aiko-1",
+  "enf_name": "Shanghai AIKO Energy Co., Ltd.",
+  "country": "China",
+  "website": "https://www.aikosolar.com",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Solar cells, modules, bifacial"
+ },
+ {
+  "shopify_vendor": "Schneider Electric",
+  "enf_slug": "schneider-electric",
+  "enf_name": "Schneider Electric Solar",
+  "country": "France",
+  "website": "https://solar.se.com",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Component, Installer"
+ },
+ {
+  "shopify_vendor": "CSI Solar",
+  "enf_slug": "csi-solar",
+  "enf_name": "Canadian Solar Inc.",
+  "country": "Canada",
+  "website": "https://www.csisolar.com",
+  "staff": "18,500",
+  "parent": "",
+  "certs": "",
+  "categories": "PV modules, storage"
+ },
+ {
+  "shopify_vendor": "Anker SOLIX",
+  "enf_slug": "anker",
+  "enf_name": "Anker Innovations Co., Ltd.",
+  "country": "China",
+  "website": "https://www.anker.com",
+  "staff": "4,000",
+  "parent": "",
+  "certs": "",
+  "categories": "Storage System"
+ },
+ {
+  "shopify_vendor": "VSUN",
+  "enf_slug": "vsun",
+  "enf_name": "VSUN SOLAR",
+  "country": "Japan",
+  "website": "http://www.csolar.com",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Solar Panels"
+ },
+ {
+  "shopify_vendor": "Jinergy",
+  "enf_slug": "jinergy",
+  "enf_name": "Jinneng Clean Energy Technology Ltd.",
+  "country": "China",
+  "website": "",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Panel"
+ },
+ {
+  "shopify_vendor": "K2 Systems",
+  "enf_slug": "k2-systems",
+  "enf_name": "K2 Systems GmbH",
+  "country": "Germany",
+  "website": "https://k2-systems.com",
+  "staff": "210",
+  "parent": "",
+  "certs": "",
+  "categories": "Mounting System"
  }
 ]
