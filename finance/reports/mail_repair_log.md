@@ -72,3 +72,24 @@ Send-As smtp submission still returned `SendAsDenied` immediately after the gran
 
 - Staged credential file removed after use. No secrets persisted to repo.
 - Grants are reversible (`Remove-RecipientPermission`).
+
+## End-to-end verification (2026-09-27 00:00 EDT) — RESULT: PASS
+
+After the permission propagated:
+
+| Test | Path | Result |
+|---|---|---|
+| Send-as `connect@pes.supply` | SMTP + ERP `mail.mail` | **sent** (state=`sent`, no failure_reason) |
+| Send-as `quotes@pes.supply` | direct SMTP | **sent** (empty sendmail result) |
+| Send-as `procurement@pes.supply` | direct SMTP | **sent** |
+| Send-as `accounting@portlandiaelectric.supply` | direct SMTP | **sent** |
+
+`mail.mail` state now: **52 sent / 1 exception / 0 outgoing / 32 cancel**.
+- The 1 exception = id 474, the pre-grant `SendAsDenied` test (stale, expected). No new failures.
+- The 32 cancel = historical `odoobot@example.com` placeholders (already cancelled).
+
+**Outbound mail is fixed end-to-end.** The 32-mail-exception P0 is closed: config overrides cleared, Send-As grants applied and verified, real sends deliver as department senders.
+
+## Secondary finding (new, separate)
+
+`fable@rivenai.io` exists in Entra as a user but has **no Exchange Online mailbox** (Graph 404 `Default folder AllItems not found`). Inbox receipt cannot be verified via Graph — a mailbox-licensing/provisioning gap on the rivenai.io side, unrelated to send failure. Log for the tenant-admin follow-up.
