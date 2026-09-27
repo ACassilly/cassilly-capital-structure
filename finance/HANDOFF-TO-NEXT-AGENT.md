@@ -63,3 +63,6 @@ For the next agent (Kimi) to take over with zero re-discovery. Everything below 
 - Real transacting customers only for reviews. No fabricated reviews, no IP/account spoofing (FTC + platform terms) — regardless of enforcement posture.
 - Riven ERP is the live book; legacy is read-only history.
 - Read-before-write on every ERP mutation; idempotent re-runs only.
+## Deprecation & Illumination Backlog
+
+The full kill-list + light-up register (35 items, prioritized, with live evidence and owners) is in `finance/DEPRECATION-ILLUMINATION-BACKLOG.md`. Start there for the complete execution surface beyond the finance lane.
