@@ -17,10 +17,10 @@ Date: 2026-09-27. Active book: Riven ERP `riven_erp_pes` (axis.pesdistribution.c
 | weight (kg, lb→kg converted) | 4,846 → **18,635** variants |
 | barcode | skipped — 892 wouldn't apply; uniqueness conflicts with existing ERP barcodes |
 
-## ENF Solar enrichment (completed — 31 manufacturers)
-- 31 manufacturer profiles fetched from enfsolar.com slug URLs (disambiguated by search: `/solaredge-technologies` not the Pakistan installer).
-- `x_enf_url` + `x_manufacturer_url` written on **5,494 product.template** rows.
-- `res.partner` enriched (website + country) for **30 vendors** (Enphase→US, SolarEdge→Israel, Victron→Netherlands, JA Solar→China, SMA→Germany, REC→Singapore, Huasun→China, Waaree→India, …).
+## ENF Solar enrichment (completed — 39 manufacturers)
+- 39 manufacturer profiles fetched from enfsolar.com slug URLs (disambiguated by search: `/solaredge-technologies` not the Pakistan installer).
+- `x_enf_url` + `x_manufacturer_url` written on **5,680 product.template** rows.
+- `res.partner` enriched (website + country) for **37 vendors** (Enphase→US, SolarEdge→Israel, Victron→Netherlands, JA Solar→China, SMA→Germany, REC→Singapore, Huasun→China, Waaree→India, BYD→China, Jinko→China, SolarSpace→China, …).
 - DAH Solar partner created (id 4126) — its 172 Shopify SKUs have no ERP default_code match (not yet in catalog).
 - Disambiguation catches: Go Power (US) ≠ ENF `gopower` (Poland) — skipped; `/solaredge` (Pakistan installer) → `/solaredge-technologies`.
 - Full map: `enf_manufacturer_map.json` (shopify_vendor, enf_slug, legal name, country, website, staff, parent, certs, categories).

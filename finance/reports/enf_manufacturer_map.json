@@ -339,5 +339,93 @@
   "parent": "",
   "certs": "",
   "categories": "Panels, Sellers, Installers"
+ },
+ {
+  "shopify_vendor": "BYD",
+  "enf_slug": "byd",
+  "enf_name": "BYD Company Limited",
+  "country": "China",
+  "website": "https://pv.byd.com",
+  "staff": "700,000",
+  "parent": "",
+  "certs": "",
+  "categories": "Panels, Components, Storage System"
+ },
+ {
+  "shopify_vendor": "Jinko Solar",
+  "enf_slug": "jinko-solar",
+  "enf_name": "Jinko Solar Co., Ltd.",
+  "country": "China",
+  "website": "",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Crystalline, Storage, Inverter"
+ },
+ {
+  "shopify_vendor": "SolarSpace",
+  "enf_slug": "solarspace",
+  "enf_name": "SolarSpace Technology Co., Ltd",
+  "country": "China",
+  "website": "http://www.solarspace.cn",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Panels, Materials"
+ },
+ {
+  "shopify_vendor": "DMEGC Solar",
+  "enf_slug": "dmegc-solar",
+  "enf_name": "Hengdian Group DMEGC Magnetics Co., Ltd. (DMEGC Solar)",
+  "country": "China",
+  "website": "https://www.dmegcsolar.com",
+  "staff": "",
+  "parent": "Hengdian Group",
+  "certs": "ISO27001; ISO 14067; EPD",
+  "categories": "Solar Panels, Bifacial, N-type"
+ },
+ {
+  "shopify_vendor": "Novergy",
+  "enf_slug": "novergy",
+  "enf_name": "Novergy Energy Solutions Pvt. Ltd.",
+  "country": "India",
+  "website": "https://www.novergysolar.com",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Panels, Components, Installers"
+ },
+ {
+  "shopify_vendor": "Aoli Solar",
+  "enf_slug": "aoli-solar",
+  "enf_name": "Changzhou Aoli Energy Technology Co., Ltd.",
+  "country": "China",
+  "website": "",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Wafer, Cell, Polysilicon, Glass"
+ },
+ {
+  "shopify_vendor": "Fei Ya Solartech",
+  "enf_slug": "fei-ya-solartech",
+  "enf_name": "Jiaxing Fei Ya Solartech Co., Ltd.",
+  "country": "China",
+  "website": "http://www.fysolartech.com",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Panels, Components"
+ },
+ {
+  "shopify_vendor": "Sonnex Energie",
+  "enf_slug": "sonnex-energie",
+  "enf_name": "Sonnex Energie GmbH",
+  "country": "Germany",
+  "website": "",
+  "staff": "",
+  "parent": "",
+  "certs": "",
+  "categories": "Crystalline, Storage, Inverter"
  }
 ]
